@@ -1,2 +1,6 @@
 add a line
-This is on master branch
+<<<<<<< HEAD
+add feature branch
+=======
+add feature branch
+>>>>>>> feature1
